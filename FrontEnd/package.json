@@ -16,7 +16,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "eonasdan-bootstrap-datetimepicker": "^4.17.47",
     "luxon": "^1.21.3",
     "phoenix-socket": "^1.2.3",
